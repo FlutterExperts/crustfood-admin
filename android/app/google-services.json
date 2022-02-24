@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "280897502262",
+    "project_id": "food-delivery-service-flutter",
+    "storage_bucket": "food-delivery-service-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280897502262:android:f6e3f7e39c2cf192cf6c97",
+        "android_client_info": {
+          "package_name": "com.famil.crustfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280897502262-34ife517ikqejo0ekhcq1ld6en2tu5nq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famil.crustfood",
+            "certificate_hash": "172edc205753d1ea183d7b868227931cc5e5e31c"
+          }
+        },
+        {
+          "client_id": "280897502262-3pg0dsa7fogdf78vb0drusekiqlhprsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famil.crustfood",
+            "certificate_hash": "2bb161ec40b5bc5274b90a4fbbd8a6aa6efda171"
+          }
+        },
+        {
+          "client_id": "280897502262-tvhm1bqkb8oadd8hvi0dotsd2836dvpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famil.crustfood",
+            "certificate_hash": "be13ab02c3575b76092844c0001bd84fca8ac99c"
+          }
+        },
+        {
+          "client_id": "280897502262-0o9tkfcqjr3s0743mjs8b3v9mhe3tpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0ggffURuqmTUhHILYNZy6qUQRWzFC0sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280897502262-0o9tkfcqjr3s0743mjs8b3v9mhe3tpql.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280897502262-76jdcnfitetptb9vg8ogva3r5gi74m0h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.famil.crustfood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
